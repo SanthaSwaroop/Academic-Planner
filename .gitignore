@@ -1,0 +1,19 @@
+# Environment files
+.env
+.env.local
+.env.production
+
+# Python
+venv/
+__pycache__/
+
+# Node
+node_modules/
+dist/
+
+# IDE
+.vscode/
+.idea/
+
+# Build
+build/
